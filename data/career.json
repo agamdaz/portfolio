@@ -1,0 +1,164 @@
+[
+  {
+    "title": "Senior Frontend Developer",
+    "company": "GMV",
+    "period": ["January 2026", "Present"],
+    "init": "2026-01",
+    "end": "2026-11",
+    "summary": "GMV is an international technology group developing high-tech solutions across sectors including space, defence, transportation, and communications. Within its space activities, I work as Senior Frontend Developer on a web application for satellite operations, focused on telemetry monitoring and commanding.",
+    "detail": "<p>As part of the frontend team, I develop the React-based application used to manage satellite telemetry and commanding. The application is supported by a cross-product design system and component library based on Storybook, which I also help maintain in collaboration with the UX team.</p><p>My role combines product development with the evolution of the shared UI ecosystem. Alongside implementing application features, I contribute to the development and maintenance of reusable components, working with UX to ensure that design decisions, component behaviour, and their implementation remain aligned across products.</p>",
+    "responsibilities": [
+      "Develop and maintain a React-based web application for satellite telemetry monitoring and commanding.",
+      "Build complex, data-driven interfaces using React and TypeScript.",
+      "Develop reusable UI components and interaction patterns for the application and shared component library.",
+      "Collaborate with the UX team to evolve the cross-product design system and translate design decisions into production-ready components.",
+      "Maintain the shared component library and its Storybook documentation.",
+      "Review code and contribute to frontend architecture and technical decisions.",
+      "Mentor other frontend developers and promote consistency, reusability, and maintainability across products."
+    ],
+    "stack": [
+      "HTML",
+      "SCSS",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Bitbucket",
+      "Jenkins",
+      "CI/CD",
+      "Figma",
+      "Storybook"
+    ]
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Nunegal Consulting",
+    "period": ["November 2025", "December 2025"],
+    "init": "2025-11",
+    "end": "2025-12",
+    "summary": "A software consulting company where I joined the development of an internal documentation platform intended to become a long-term alternative to the company's use of Confluence. I worked on the early stages of the application, contributing to its development and maintenance as the project and its technical direction evolved.",
+    "detail": "<p>The application was initially developed with Vue.js. As development progressed, I also contributed to the migration of parts of the application to React, driven by the company's existing component library and the requirement to adopt it for new development.</p>",
+    "responsibilities": [
+      "Develop and maintain an SPA-based internal documentation platform.",
+      "Develop interfaces and functionality using Vue.js and React.",
+      "Migrate application components from Vue.js to React.",
+      "Integrate and adopt the company's existing React component library.",
+      "Work within Azure DevOps repositories and CI/CD pipelines.",
+      "Contribute to the evolution of the application's front-end architecture."
+    ],
+    "stack": [
+      "HTML",
+      "SCSS",
+      "JavaScript",
+      "TypeScript",
+      "Vue.js",
+      "React",
+      "Azure DevOps",
+      "CI/CD",
+      "Figma",
+      "Storybook"
+    ]
+  },
+  {
+    "title": "UX/UI Designer & Developer",
+    "company": "Devo",
+    "period": ["November 2020", "August 2025"],
+    "init": "2020-11",
+    "end": "2025-08",
+    "summary": "A cloud security and analytics platform with a large, evolving web application and product ecosystem. As UX/UI Designer & Developer within the UX team, I worked at the intersection of product design and front-end development, taking responsibility for the evolution and adoption of Devo's design system and component library.",
+    "detail": "<p>My work involved translating product initiatives, stakeholder requirements, and technical needs into prototypes, reusable patterns, and production-ready components. I designed and documented interfaces in Figma, defined patterns based on the design system, and worked closely with engineers to develop and evolve the component library and the website. This collaboration allowed me to bridge design decisions and their technical implementation, ensuring that components were not only visually consistent but also modular, reusable, and accessible.</p><p>I also supported product teams in their day-to-day use of the component library, helping them understand and apply the design system consistently across the product. Part of my role was to advocate for the system itself: documenting its principles and components, educating teams, identifying opportunities for improvement, and evolving the library as new product requirements emerged.</p>",
+    "responsibilities": [
+      "Evolve and maintain the design system and component library.",
+      "Design and prototype interfaces and interaction patterns in Figma.",
+      "Define reusable UI patterns based on the design system.",
+      "Collaborate with engineers to develop and evolve production components.",
+      "Document the design system, components, and their usage.",
+      "Support and educate product teams in applying the design system.",
+      "Advocate for modular, reusable, and accessible components across the product."
+    ],
+    "stack": [
+      "HTML",
+      "SCSS",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Gulp",
+      "Webpack",
+      "Jest",
+      "GitLab",
+      "ArgoCD",
+      "CI/CD",
+      "Figma",
+      "Storybook"
+    ]
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "lastminute.com",
+    "period": ["January 2014", "October 2020"],
+    "init": "2014-01",
+    "end": "2020-10",
+    "summary": "An online travel agency and digital travel platform. As Frontend Developer, I worked across the company's hotel-booking experiences, moving from template maintenance and front-end tooling into application development while continuing to contribute as a graphic designer.",
+    "detail": "<p>I started by maintaining existing templates and migrating CSS to SCSS, introducing Gulp-based automation and Git repositories to improve the front-end development workflow. This was also where I developed my JavaScript skills and gained experience with Marionette, Backbone, and React.</p><p>Initially, I was responsible for the templates of the SEO application, which combined Java-generated content with JSP and Thymeleaf templates. Later, I joined the development of a React-based SPA for the hotel catalogue, covering accommodation listings, availability, hotel details, and the booking experience.</p><p>Alongside my development work, I collaborated with the Marketing and UX teams as a Graphic Designer, creating pages, internal communication campaigns, and promotional banners, as well as contributing to the evolution of the company's visual style guides.</p>",
+    "responsibilities": [
+      "Maintain and evolve front-end templates and stylesheets.",
+      "Migrate CSS to SCSS and establish automated front-end workflows with Gulp.",
+      "Develop JavaScript applications using Marionette, Backbone, and React.",
+      "Develop and maintain SEO-oriented templates using JSP and Thymeleaf.",
+      "Develop React interfaces for hotel catalogues, availability, accommodation details, and booking flows.",
+      "Collaborate with Marketing and UX teams on digital pages and promotional materials.",
+      "Design internal communication campaigns and promotional banners.",
+      "Contribute to the evolution and consistency of the company's visual style guides."
+    ],
+    "stack": [
+      "HTML",
+      "SCSS",
+      "Bootstrap",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Marionette",
+      "Backbone",
+      "Gulp",
+      "Webpack",
+      "Jest",
+      "Git",
+      "Jenkins",
+      "CI/CD",
+      "Adobe Photoshop",
+      "Adobe Illustrator"
+    ]
+  },
+  {
+    "title": "Graphic Designer & Web Developer",
+    "company": "Tin Can | UST Global | Wecare-U | Stanfer",
+    "period": ["January 2000", "October 2013"],
+    "init": "2000-01",
+    "end": "2013-10",
+    "summary": "My professional career began in 2000 while I was studying, through a scholarship arranged between my university and Tin Can Comunicación, a media and advertising agency. This gave me my first opportunity to work as a graphic designer in a professional environment, applying what I had learned while gaining hands-on experience in real projects.",
+    "detail": "<p>I continued this transition from education into professional practice through a second scholarship in the Marketing department of UST Global, where I worked on graphic materials for software products. My first employment contract came at Wecare-U, a pharmaceutical and healthcare publishing company, where graphic design became the main focus of my professional career.</p><p>At Wecare-U, I worked on the design, layout, and production of its publications before taking responsibility for the visual identity of its different publications as Art Director and coordinating production with the design team and external providers.</p><p>At Stanfer, an advertising and publishing agency, my role expanded into both creative and digital work. I developed corporate identities and advertising campaigns for clients including Schweppes, Kodak, and Madrid City Council, while progressively moving into web design and development. I developed and maintained websites using Joomla and WordPress, adapting and creating custom templates and modules, and created microsites and landing pages for clients such as Grupo Ibosa and Peris.</p>",
+    "responsibilities": [
+      "Develop corporate identities, advertising campaigns, and visual communication materials.",
+      "Design and produce printed publications from layout through final production.",
+      "Define and maintain visual identities and style guidelines for different publications and brands.",
+      "Coordinate design teams and external production providers.",
+      "Design websites, microsites, landing pages, banners, and email campaigns.",
+      "Develop and maintain websites using Joomla and WordPress.",
+      "Adapt and create custom templates and modules for web projects.",
+      "Combine graphic design and web technologies to deliver digital experiences."
+    ],
+    "stack": [
+      "HTML",
+      "CSS",
+      "PHP",
+      "Joomla",
+      "WordPress",
+      "Drupal",
+      "FTP",
+      "Macromedia FreeHand",
+      "QuarkXPress",
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Adobe InDesign"
+    ]
+  }
+]

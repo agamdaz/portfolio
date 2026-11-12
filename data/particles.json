@@ -1,0 +1,36 @@
+{
+  "particles": {
+    "number": {
+      "value": 20
+    },
+    "color": {
+      "value": "#000"
+    },
+    "line_linked": {
+      "enable": true,
+      "distance": 400,
+      "color": "#000",
+      "opacity": 0.1,
+      "width": 1
+    },
+    "shape": {
+      "type": "circle"
+    },
+    "opacity": {
+      "value": 0.3,
+      "random": true
+    },
+    "size": {
+      "value": 2,
+      "random": false
+    },
+    "move": {
+      "enable": true,
+      "speed": 4,
+      "random": true,
+      "straight": false,
+      "out_mode": "out"
+    }
+  },
+  "retina_detect": true
+}

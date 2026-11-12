@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Themify your (S)CSS Modules",
+    "subtitle": "The lastminute.com Technology Blog — 2019",
+    "description": "An exploration of modular styling and theming in React applications, combining CSS Modules, Sass, and Bootstrap to create reusable, component-scoped styles. Developed as a practical proof of concept, the project uses shared Sass variables and Webpack configuration to generate multiple visual themes from a common codebase.",
+    "link": "https://technology.lastminute.com/themes-with-css-modules/",
+    "label": "Open the blog article"
+  },
+  {
+    "title": "My brand, my tokens",
+    "subtitle": "The Devo Engineering Blog — 2021",
+    "description": "An exploration of Design Tokens as a foundation for maintaining brand consistency across multiple digital products. The article discusses how to connect design systems with frontend development by transforming design values into reusable CSS Custom Properties, enabling shared visual foundations and dynamic theming across applications.",
+    "link": "https://devoinc.github.io/branding/2021/09/29/my-brand-my-tokens.html",
+    "label": "Open the blog article"
+  },
+  {
+    "title": "Deshabitados",
+    "subtitle": "Personal illustration project — 2025",
+    "description": "An illustration project exploring abandoned villages through imagined aerial views of the places they once occupied. Inspired by the work of Jesús Perea and drawing on research into Spain's deserted settlements, the series translates the traces of these forgotten places into a collection of illustrations identified by their geographical coordinates.",
+    "link": "https://agamdaz.github.io/deshabitados/",
+    "label": "View the illustration project"
+  },
+  {
+    "title": "Sketchbox UI",
+    "subtitle": "Component Library for Agenda de Arte",
+    "description": "A personal project developed alongside Agenda de Arte, consisting of a reusable UI component library built to support the website's interface and visual consistency. Documented with Storybook, the library provides a shared collection of components and design patterns, making it easier to develop, maintain, and evolve the website's frontend independently from its main application.",
+    "link": "https://sketchbox.agendadearte.com/",
+    "label": "View the component library"
+  },
+  {
+    "title": "agendadearte.com",
+    "subtitle": "An independent agenda of art gallery events in Madrid",
+    "description": "An independent platform showcasing art exhibitions and gallery events across Madrid, designed and developed as a personal project. Built with Next.js and deployed on Vercel, it uses Vercel Blob for data storage, alongside a custom content-management workflow and a dedicated component library to keep the interface consistent and the platform easy to maintain and evolve.",
+    "link": "https://agendadearte.com",
+    "label": "Visit the website"
+  }
+]
