@@ -7,7 +7,11 @@
       name="description"
       content="Portfolio of Aurelio Gamero Díaz, Senior Frontend Developer and Graphic Designer, specialising in frontend development, UX/UI design, and design systems."
     />
-    <title>Aurelio Gamero Díaz — Frontend Developer & Graphic Designer</title>
+    <title>
+      Aurelio Gamero Díaz — Frontend Developer &amp; Graphic Designer
+    </title>
+    <link rel="preload" href="/portfolio/data/career.json" as="fetch" crossorigin/>
+    <link rel="preload" href="/portfolio/data/works.json" as="fetch" crossorigin/>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -29,7 +33,7 @@
             <h1 class="hero-title">Aurelio Gamero Díaz</h1>
             <p class="hero-subtitle">Web developer & Graphic designer</p>
           </div>
-          <nav class="main-nav">
+          <nav class="main-nav" aria-label="Main navigation">
             <ul>
               <li class="main-nav__item">
                 <a href="#career" class="main-nav__link">Career</a>
@@ -48,22 +52,22 @@
         </div>
       </header>
     </div>
-    <main class="main-content">
-      <section id="career">
+    <main id="main-content" class="main-content">
+      <section id="career" aria-labelledby="career-title">
         <div class="section-container">
-          <h2 class="section-title">Career</h2>
+          <h2 class="section-title" id="career-title">Career</h2>
           <div class="section-content" id="career-list"></div>
         </div>
       </section>
-      <section id="work">
+      <section id="work" aria-labelledby="work-title">
         <div class="section-container">
-          <h2 class="section-title">Work</h2>
+          <h2 class="section-title" id="work-title">Work</h2>
           <div class="section-content" id="works-list"></div>
         </div>
       </section>
-      <section id="skills" class="skills">
+      <section id="skills" class="skills" aria-labelledby="skills-title">
         <div class="section-container">
-          <h2 class="section-title">Skills</h2>
+          <h2 class="section-title" id="skills-title">Skills</h2>
           <div class="section-content" id="skills-list">
             <article>
               <p>
@@ -103,7 +107,10 @@
     </main>
     <footer id="footer" class="page-footer">
       <div class="footer-container">
-        <span>© Aurelio Gamero Díaz - Updated November 2026</span>
+        <span>
+          © Aurelio Gamero Díaz - Updated
+          <time datetime="2026-11">November 2026</time>
+        </span>
         <ul class="footer-links">
           <li>
             <a href="mailto:aureliogamero@google.com">Email</a>
@@ -129,7 +136,7 @@
         </ul>
       </div>
     </footer>
-    <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
-    <script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js" defer></script>
+    <script src="script.js" defer></script>
   </body>
 </html>
